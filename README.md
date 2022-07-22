@@ -18,7 +18,7 @@ Exceptions:
 3. When invalid modifieres are entered.
 
 To run the application  in the local
-$ git clone <url>>
+$ git clone https://github.com/UmaSubbaiyan/EilangenApp.git 
 $ go to the folder where it is done
 $ mvn package
 $ java -cp target/Eilangen-0.0.1-SNAPSHOT.jar com.eimetals.eilangen.EilangenApplication
